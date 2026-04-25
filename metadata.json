@@ -1,0 +1,6 @@
+{
+  "name": "Kelensi Music Solutions",
+  "description": "High-performance digital music streaming platform with cyber-neomorph UI and professional equalizer controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["audio_streaming", "visualizer", "admin_portal"]
+}
